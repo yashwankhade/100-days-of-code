@@ -5,3 +5,10 @@
 **Today's Progress** : Completed Basic HTML and CSS tutorials on Freecodecamp
 
 **Thoughts** : Knew most of the things, only thing new I came across were CSS custom variables
+
+### Day 2: Jan 7, 2021
+
+**Today's Progress** : Completed Applied Visual Design track on Freecodecamp
+
+**Thoughts** : Had a busy day still managed to finish it. Learnt few things about CSS animations.
+
