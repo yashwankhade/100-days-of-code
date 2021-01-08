@@ -12,3 +12,9 @@
 
 **Thoughts** : Had a busy day still managed to finish it. Learnt few things about CSS animations.
 
+### Day 3: Jan 8, 2021
+
+**Today's Progress** : Completed Applied Accessibility track on Freecodecamp
+
+**Thoughts** : Learnt few new things which I wasn't knowing.
+
