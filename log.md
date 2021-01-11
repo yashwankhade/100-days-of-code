@@ -18,3 +18,20 @@
 
 **Thoughts** : Learnt few new things which I wasn't knowing.
 
+### Day 4: Jan 9, 2021
+
+**Today's Progress** : Completed Responsive Web Design and CSS flexbox tracks on Freecodecamp
+
+**Thoughts** : These two things were totally new to learn.
+
+### Day 5: Jan 10, 2021
+
+**Today's Progress** : Completed CSS grid and few parts of Javascript track on Freecodecamp
+
+**Thoughts** : CSS grid is amazing. I enjoyed working on it. Started with JS.
+
+### Day 6: Jan 11, 2021
+
+**Today's Progress** : Completed Bootstrap track on Freecodecamp
+
+**Thoughts** : Bootstrap makes CSS easy. Looking forward to explore more.
