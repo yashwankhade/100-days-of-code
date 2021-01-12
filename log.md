@@ -34,4 +34,10 @@
 
 **Today's Progress** : Completed Bootstrap track on Freecodecamp
 
-**Thoughts** : Bootstrap makes CSS easy. Looking forward to explore more.
+**Thoughts** : Bootstrap makes CSS easy. Looking forward to explore more.  
+
+### Day 7: Jan 12, 2021
+
+**Today's Progress** : Completed few lessons of Javascript on freecodecamp.
+
+**Thoughts** : Knew most of the things already, looking forward to explore new things.
