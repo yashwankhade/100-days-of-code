@@ -41,3 +41,27 @@
 **Today's Progress** : Completed few lessons of Javascript on freecodecamp.
 
 **Thoughts** : Knew most of the things already, looking forward to explore new things.
+
+### Day 8: Jan 13, 2021
+
+**Today's Progress** : Completed few lessons of Javascript on freecodecamp. Objects,loops,iterations,recursion
+
+**Thoughts** : some new concepts
+
+### Day 9: Jan 14, 2021
+
+**Today's Progress** : Completed few lessons of Javascript on freecodecamp.
+
+**Thoughts** : Didn't know some of those things.
+
+### Day 10: Jan 15, 2021
+
+**Today's Progress** : Completed some ES6 lessons of Javascript on freecodecamp. Functions, parameters, reduce, spread
+
+**Thoughts** : Felt tired today, couldn't concentrate much.
+
+### Day 11: Jan 16, 2021
+
+**Today's Progress** : 
+
+**Thoughts** :  
