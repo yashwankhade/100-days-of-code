@@ -62,6 +62,6 @@
 
 ### Day 11: Jan 16, 2021
 
-**Today's Progress** : 
+**Today's Progress** : Learnt about Regular Expressions in JS
 
-**Thoughts** :  
+**Thoughts** :  Felt sleepy but completed
