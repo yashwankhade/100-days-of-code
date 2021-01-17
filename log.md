@@ -65,3 +65,9 @@
 **Today's Progress** : Learnt about Regular Expressions in JS
 
 **Thoughts** :  Felt sleepy but completed
+
+### Day 12: Jan 17, 2021
+
+**Today's Progress** : Created a tribute Page
+
+**Thoughts** :  It was easy to make it.
