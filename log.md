@@ -71,6 +71,7 @@
 **Today's Progress** : Created a tribute Page
 
 **Thoughts** :  It was easy to make it.
+Link : https://codepen.io/yashwankhade/pen/zYKygVZ
 
 ### Day 13: Jan 18, 2021
 
@@ -83,3 +84,4 @@
 **Today's Progress** : Completed survey form
 
 **Thoughts** :  Learnt some new things.
+Link: https://codepen.io/yashwankhade/pen/VwKRaGE
