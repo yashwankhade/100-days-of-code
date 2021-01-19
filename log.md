@@ -71,3 +71,15 @@
 **Today's Progress** : Created a tribute Page
 
 **Thoughts** :  It was easy to make it.
+
+### Day 13: Jan 18, 2021
+
+**Today's Progress** : Started working on Survey Form
+
+**Thoughts** :  Was tired today will complete tomorrow
+
+### Day 14: Jan 19, 2021
+
+**Today's Progress** : Completed survey form
+
+**Thoughts** :  Learnt some new things.
