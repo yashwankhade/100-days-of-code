@@ -85,3 +85,16 @@ Link : https://codepen.io/yashwankhade/pen/zYKygVZ
 
 **Thoughts** :  Learnt some new things.
 Link: https://codepen.io/yashwankhade/pen/VwKRaGE
+
+### Day 15: Jan 20, 2021
+
+**Today's Progress** : Started Working on Product Landing Page
+
+**Thoughts** :  Facing some difficulties in it
+
+### Day 16: Jan 21, 2021
+
+**Today's Progress** : Faced some issues in Product Landing Page so worked on Documentation Page
+
+**Thoughts** : Tired today, will complete remaining things tomorrow.
+
